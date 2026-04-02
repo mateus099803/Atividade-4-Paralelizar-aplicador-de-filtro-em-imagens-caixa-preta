@@ -93,7 +93,7 @@ Onde:
 | 12                | 33.7160   | 3.13    | 0.26       |
 
 
-![Resultado](IMG/image.png)
+![Resultado](IMG/resultado.png)
 ---
 
 # 7. Gráfico de Tempo de Execução
