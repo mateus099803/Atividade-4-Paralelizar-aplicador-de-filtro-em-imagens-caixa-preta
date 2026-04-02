@@ -20,12 +20,6 @@ O problema consiste em converter uma imagem colorida no formato PPM (P6) para es
 
 # 2. Ambiente Experimental
 
-Descreva o ambiente em que os experimentos foram realizados.
-
-## Orientações
-
-Informar as características do hardware e software utilizados na execução dos testes.
-
 | Item                        | Descrição                                                    |
 | --------------------------- | ------------------------------------------------------------ |
 | Processador                 | Intel Core i5-13400F (13ª Geração)                           |
